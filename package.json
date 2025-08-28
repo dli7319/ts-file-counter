@@ -1,0 +1,37 @@
+{
+  "name": "ts-counter",
+  "version": "1.0.0",
+  "description": "Count TS files in a directory.",
+  "main": "build/main.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "ts-counter": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dli7319/ts-counter.git"
+  },
+  "keywords": [
+    "typescript",
+    "cli",
+    "codemod",
+    "migration"
+  ],
+  "author": "David Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dli7319/ts-counter/issues"
+  },
+  "homepage": "https://github.com/dli7319/ts-counter#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  }
+}
