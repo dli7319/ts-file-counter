@@ -1,11 +1,11 @@
 {
-  "name": "ts-counter",
+  "name": "ts-file-counter",
   "version": "1.0.0",
   "description": "Count TS files in a directory.",
   "main": "build/main.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "ts-counter": "./dist/index.js"
+    "ts-file-counter": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dli7319/ts-counter.git"
+    "url": "git+https://github.com/dli7319/ts-file-counter.git"
   },
   "keywords": [
     "typescript",
