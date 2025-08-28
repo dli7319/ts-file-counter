@@ -2,7 +2,7 @@
   "name": "ts-file-counter",
   "version": "1.0.0",
   "description": "Count TS files in a directory.",
-  "main": "build/main.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
     "ts-file-counter": "./dist/index.js"
