@@ -1,6 +1,6 @@
 {
   "name": "ts-file-counter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Count TS files in a directory.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,9 +28,9 @@
   "author": "David Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dli7319/ts-counter/issues"
+    "url": "https://github.com/dli7319/ts-file-counter/issues"
   },
-  "homepage": "https://github.com/dli7319/ts-counter#readme",
+  "homepage": "https://github.com/dli7319/ts-file-counter#readme",
   "devDependencies": {
     "@types/node": "^24.3.0",
     "typescript": "^5.9.2"
