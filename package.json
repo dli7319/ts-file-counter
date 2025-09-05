@@ -1,6 +1,6 @@
 {
   "name": "ts-file-counter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Count TS files in a directory.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
